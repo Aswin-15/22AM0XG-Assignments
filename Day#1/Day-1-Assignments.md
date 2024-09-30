@@ -9,7 +9,7 @@
 | <ul><li>- [x] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
 | <ul><li>- [x] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
 | <ul><li>- [x] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
-| <ul><li>- [ ] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
+| <ul><li>- [x] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
 | <ul><li>- [ ] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
 | <ul><li>- [x] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
 | <ul><li>- [x] </li></ul> | Create a LinkedIn account with personal mail ID  |
@@ -76,7 +76,10 @@
 ***
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
+![Screenshot 2024-09-30 185219](https://github.com/user-attachments/assets/0bc57895-f1ee-4d46-9b05-0bde7ea06d32)
+![Screenshot 2024-09-30 185241](https://github.com/user-attachments/assets/ba11595c-85f1-4efe-943d-3fd0155d9ff4)
+![Screenshot 2024-09-30 185620](https://github.com/user-attachments/assets/e3862b7c-6774-4a4c-8fe8-3c97b7e104e1)
+![Screenshot 2024-09-30 185350](https://github.com/user-attachments/assets/e72407d7-76a6-48f1-a905-28e7c2291819)
 
 ***
 
