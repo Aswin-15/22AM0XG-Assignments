@@ -8,7 +8,7 @@
 | <ul><li>- [x] </li></ul> | Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page. |
 | <ul><li>- [x] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
 | <ul><li>- [x] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
-| <ul><li>- [ ] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
+| <ul><li>- [x] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
 | <ul><li>- [ ] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
 | <ul><li>- [ ] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
 | <ul><li>- [x] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
@@ -69,7 +69,9 @@
 ***
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
+![Screenshot 2024-09-30 173936](https://github.com/user-attachments/assets/49eac23a-aaea-4ecb-9404-a24bec6ad154)
+![Screenshot 2024-09-30 173959](https://github.com/user-attachments/assets/891afad0-dc35-4fc0-a787-9a14b75c8da8)
+![Screenshot 2024-09-30 173910](https://github.com/user-attachments/assets/53c1bfa4-fa6d-4c5a-8f2f-627a7044e628)
 
 ***
 
