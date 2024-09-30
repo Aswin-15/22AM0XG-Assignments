@@ -10,7 +10,7 @@
 | <ul><li>- [x] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
 | <ul><li>- [x] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
 | <ul><li>- [x] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
-| <ul><li>- [ ] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
+| <ul><li>- [x] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
 | <ul><li>- [x] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
 | <ul><li>- [x] </li></ul> | Create a LinkedIn account with personal mail ID  |
 
@@ -84,7 +84,9 @@
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
+![Screenshot 2024-09-30 194836](https://github.com/user-attachments/assets/a8517617-f374-46c4-9773-86e9edc38d64)
+![Screenshot 2024-09-30 194853](https://github.com/user-attachments/assets/93d28b53-d351-4afe-883c-b828355baae8)
+Docker image is successfully executed ✅
 
 ***
 
@@ -96,6 +98,5 @@ created ✅✅
 #### #8 Create a LinkedIn account with personal mail ID
 created ✅✅
 ![Screenshot 2024-09-29 142108](https://github.com/user-attachments/assets/40ce8dc7-eddd-46a6-b07a-f5bbd3cce440)
-
 
 ***
