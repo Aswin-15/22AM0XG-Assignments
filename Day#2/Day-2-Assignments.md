@@ -25,9 +25,11 @@
 #### #1 Create a simple machine learning application. Execute the program in local and verify the prediction based on the given score. 
 #### Write the Dockerfile & create the docker image named : ml-docker-app-flask. Run the docker image and verify the prediction based on the given score. Tag the image in this format : <dockerhub-username>: ml-docker-app-flask. Push the image to DockerHub	
 > Add your answer here!
-build
-> push
-> run
+Build -> ![Screenshot 2024-09-30 200706](https://github.com/user-attachments/assets/bbf5226c-7f9b-46f8-9b78-89bbd9d26ea4)
+![Screenshot 2024-09-30 200739](https://github.com/user-attachments/assets/621e83b9-a443-46a6-9629-06bd63964f15)
+![Screenshot 2024-09-30 200811](https://github.com/user-attachments/assets/9551b2b8-212d-4cc0-a1f4-22bd32921529)
+push -> ![Screenshot 2024-09-30 201037](https://github.com/user-attachments/assets/05c37b22-ea45-4618-9c22-e02e5a721906)
+
 ***
 
 #### #2 Create a simple machine learning application. Execute the program in local and verify the accuracy
@@ -52,6 +54,6 @@ build
 ***
 
 #### #6 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
+Completed ✅✅
 
 ***
