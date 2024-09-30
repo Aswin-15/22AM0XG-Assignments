@@ -4,4 +4,4 @@ COPY email_classification.py /
 
 RUN pip install --no-cache-dir scikit-learn
 
-CMD [ "python", "./email_classification.py" ]
+CMD [ "python", "./email.py" ]
