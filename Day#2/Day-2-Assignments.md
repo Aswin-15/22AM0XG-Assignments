@@ -6,11 +6,11 @@
 | Status         | Questions     | 
 |----------------|---------------|
 | <ul><li>- [x] </li></ul> | Create a simple machine-learning application & verify the prediction based on the given score |
-| <ul><li>- [ ] </li></ul> | Create a simple machine-learning application & verify the accuracy |
-| <ul><li>- [ ] </li></ul> | [Docker Compose] Create a docker-compose file for the 2 images: your flask app and the machine learning app and run the same view the page in browser |
-| <ul><li>- [ ] </li></ul> | Commit all the code to GitHub Repo |
-| <ul><li>- [ ] </li></ul> | Document all the learnings with screenshots in the GitHub Wiki / in .md file |
-| <ul><li>- [ ] </li></ul> | Create a post on Linkedin  |
+| <ul><li>- [x] </li></ul> | Create a simple machine-learning application & verify the accuracy |
+| <ul><li>- [x] </li></ul> | [Docker Compose] Create a docker-compose file for the 2 images: your flask app and the machine learning app and run the same view the page in browser |
+| <ul><li>- [x] </li></ul> | Commit all the code to GitHub Repo |
+| <ul><li>- [x] </li></ul> | Document all the learnings with screenshots in the GitHub Wiki / in .md file |
+| <ul><li>- [x] </li></ul> | Create a post on Linkedin  |
 
 ***
 
@@ -45,17 +45,19 @@ push -> ![Screenshot 2024-09-30 201037](https://github.com/user-attachments/asse
 ***
 
 #### #3 [Docker Compose] Create a docker compose file for the 2 images : your flask app and the machine learning app and run the same view the page in browser
-> Add your answer here!
+![Screenshot 2024-09-30 204842](https://github.com/user-attachments/assets/bcf33e2f-3726-4f6a-a43a-3b9f8388d419)
+![Screenshot 2024-09-30 204920](https://github.com/user-attachments/assets/4adbce68-5e53-4309-b9bd-a8da08a9ccc9)
+
 
 ***
 
 #### #4 Commit the code to the Github Repo. The repo should be a public one. 
-> Add your answer here!
+Completed ✅✅
 
 ***
 
 #### #5 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
+Completed ✅✅
 
 ***
 
